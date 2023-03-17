@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>ApplicationDomain.fs</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Domain.StockTypes.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FSharp.Data" Version="5.0.2" />
+    </ItemGroup>
+
+</Project>

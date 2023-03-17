@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hO8rNwawi1RU8ssw46ot9ANdxtyTPnNE06rPxwrUQfTTD2eoZgRU5fSWqdrjGMYYxbbRmBrHeEsPP0M9tmMvOw==",
+  "success": true,
+  "projectFilePath": "/Users/dewaldhaasbroek/Code/AvaloniaScratch/Avalonia.FuncUI.Scratch/AvaloniaFuncUIApp1/p020.ApplicationInterface/p020.ApplicationInterface.fsproj",
+  "expectedPackageFiles": [
+    "/Users/dewaldhaasbroek/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
